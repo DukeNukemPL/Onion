@@ -1,0 +1,21 @@
+{
+	"88":	"WYBIERZ",
+	"89":	"WRÓĆ",
+	"90":	"NAV",
+	"91":	"MENU",
+	"92":	"Kontynuuj",
+	"93":	"Zapisz",
+	"94":	"Ładuj",
+	"95":	"Głośność",
+	"96":	"Wróć do Menu",
+	"97":	"State %d/%d",
+	"98":	"Pusty",
+	"99":	"Brak miniatury",
+	"100":	"Błąd Ładowania",
+	"101":	"Błąd Zapisu",
+	"102":	"Mijesce %d Zapisu",
+	"103":  "Pełen Ekran",
+	"104":  "Wł",
+	"105":  "Wył",
+	"106":  "Zaawansowane"
+}
